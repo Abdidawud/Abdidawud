@@ -13,15 +13,16 @@
 
 📫 How to reach me: **abdidawud995@gmail.com**
 
-📄 Know about my experiences  
-👉 
-
+📄 Know about my experiences  👉 here is my cv
 ---https://drive.google.com/file/d/14RuU_LuiwiYfkmDtnz-CsHMaPkXEHaP5/view?usp=drive_link
 
 ## 🤝 Connect with me:
-- GitHub: **abdidawud**
-- Instagram: **abdi0_917**
-- LinkedIn: **https://www.linkedin.com/in/abdi-dawud-a56667348/**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abdi-dawud-a56667348/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/abdi0_917)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/Abdidawud)
+[![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/Abdi0_917)
+
 
 ---
 
